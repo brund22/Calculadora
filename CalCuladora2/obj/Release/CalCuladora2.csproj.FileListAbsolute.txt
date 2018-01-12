@@ -1,0 +1,6 @@
+C:\Users\Ol\Documents\SharpDevelop Projects\CalCuladora2\CalCuladora2\bin\Release\CalCuladora2.exe.config
+C:\Users\Ol\Documents\SharpDevelop Projects\CalCuladora2\CalCuladora2\bin\Release\CalCuladora2.exe
+C:\Users\Ol\Documents\SharpDevelop Projects\CalCuladora2\CalCuladora2\obj\Release\CalCuladora2.csprojResolveAssemblyReference.cache
+C:\Users\Ol\Documents\SharpDevelop Projects\CalCuladora2\CalCuladora2\obj\Release\CalCuladora2.MainForm.resources
+C:\Users\Ol\Documents\SharpDevelop Projects\CalCuladora2\CalCuladora2\obj\Release\CalCuladora2.csproj.GenerateResource.Cache
+C:\Users\Ol\Documents\SharpDevelop Projects\CalCuladora2\CalCuladora2\obj\Release\CalCuladora2.exe
